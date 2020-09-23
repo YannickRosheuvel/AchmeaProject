@@ -14,7 +14,7 @@ namespace AchmeaTestss
             Assert.AreEqual(hello, 2);
         }
 
-        public void TestMethod1()
+        public void TestMethod2()
         {
             int hello = 1;
 
