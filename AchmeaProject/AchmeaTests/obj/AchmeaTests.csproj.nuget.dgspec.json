@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {}
+    "C:\\Users\\robin\\Desktop\\Group project\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {
+    "C:\\Users\\robin\\Desktop\\Group project\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\Desktop\\Group project\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
         "projectName": "AchmeaTests",
-        "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
+        "projectPath": "C:\\Users\\robin\\Desktop\\Group project\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\obj\\",
+        "outputPath": "C:\\Users\\robin\\Desktop\\Group project\\AchmeaProject\\AchmeaTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
