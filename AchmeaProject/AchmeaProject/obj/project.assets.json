@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\yanni\\.nuget\\packages\\": {},
+    "C:\\Users\\robin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
       "projectName": "AchmeaProject",
-      "projectPath": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
-      "packagesPath": "C:\\Users\\yanni\\.nuget\\packages\\",
-      "outputPath": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaProject\\obj\\",
+      "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+      "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
