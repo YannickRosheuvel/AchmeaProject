@@ -13,7 +13,14 @@ namespace AchmeaTests
             int hello = 1;
 
             Assert.AreEqual(hello, 2);
+        }
 
+        [TestMethod]
+        public void TestMethod1()
+        {
+            int hello = 1;
+
+            Assert.AreEqual(hello, 2);
         }
     }
 }
