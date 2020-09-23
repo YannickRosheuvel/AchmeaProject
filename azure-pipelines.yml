@@ -34,7 +34,8 @@ steps:
     testSelector: 'testAssemblies'
     testAssemblyVer2: |
       **\*Tests*.csproj
-
+      !**\*Test*
+      !**\obj\**
     searchFolder: '$(System.DefaultWorkingDirectory)'
     runTestsInIsolation: true
     codeCoverageEnabled: true
