@@ -1,0 +1,14 @@
+
+*.cache
+AchmeaProject/AchmeaProject/obj/Release/netcoreapp3.1/AchmeaProject.AssemblyInfo.cs
+*.cs
+*.cache
+AchmeaProject/.vs/AchmeaProject/v16/TestStore/0/000.testlog~e3bea5eac80883001745ec8e2307b989d2b1e81e
+AchmeaProject/.vs/AchmeaProject/v16/Server/sqlite3/storage.ide-wal
+AchmeaProject/.vs/AchmeaProject/v16/Server/sqlite3/storage.ide-shm
+*.ide
+*.lock
+AchmeaProject/.vs/AchmeaProject/DesignTimeBuild/.dtbcache
+AchmeaProject/AchmeaProject/obj/Debug/netcoreapp3.1/AchmeaProject.csprojAssemblyReference.cache
+AchmeaProject/AchmeaProject/obj/Debug/netcoreapp3.1/AchmeaProject.csprojAssemblyReference.cache
+AchmeaProject/AchmeaProject/obj/Debug/netcoreapp3.1/AchmeaProject.csprojAssemblyReference.cache
