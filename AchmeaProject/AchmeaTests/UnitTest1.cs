@@ -9,6 +9,10 @@ namespace AchmeaTests
         [TestMethod]
         public void TestMethod1()
         {
+            int hello = 1;
+
+            Assert.AreEqual(hello, 2);
+
         }
     }
 }
