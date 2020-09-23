@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj": {}
+    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
         "projectName": "AchmeaProject",
-        "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaProject\\obj\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
