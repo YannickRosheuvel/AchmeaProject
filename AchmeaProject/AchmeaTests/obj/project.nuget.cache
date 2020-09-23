@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PPg8hIke3apFpD6uq49tKwXBCmi5a1vVGHuDDY34t7/SklrcaHm81pFvMNCY3mtS8de+aWdpkixOd8rZvorM9A==",
+  "dgSpecHash": "6xicIv5xFrKcIFHny4xa04i8U5bpBtlZTvyC0UZbLVnhoph1U0LU8zcVUilClJHbb4TVKk1T2VRyYyK8yKRsHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
+  "projectFilePath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robin\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\robin\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
