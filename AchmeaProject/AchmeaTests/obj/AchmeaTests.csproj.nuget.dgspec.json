@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {}
+    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {}
   },
   "projects": {
-    "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
         "projectName": "AchmeaTests",
-        "projectPath": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
-        "packagesPath": "C:\\Users\\yanni\\.nuget\\packages\\",
-        "outputPath": "D:\\VSProjects\\AchmeaProject\\AchmeaProject\\AchmeaTests\\obj\\",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\AchmeaTests.csproj",
+        "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\GroupProject\\AchmeaProject\\AchmeaTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\yanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
