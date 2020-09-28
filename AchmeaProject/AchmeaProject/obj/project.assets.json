@@ -8,27 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\robin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\marti\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+      "projectUniqueName": "D:\\Fontys\\Semester 3\\GP\\GitKraken\\AchmeaProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
       "projectName": "AchmeaProject",
-      "projectPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
-      "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robin\\OneDrive\\Documents\\FHICT\\Semester 3\\Group project\\AchmeaProject\\AchmeaProject\\obj\\",
+      "projectPath": "D:\\Fontys\\Semester 3\\GP\\GitKraken\\AchmeaProject\\AchmeaProject\\AchmeaProject\\AchmeaProject.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "D:\\Fontys\\Semester 3\\GP\\GitKraken\\AchmeaProject\\AchmeaProject\\AchmeaProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

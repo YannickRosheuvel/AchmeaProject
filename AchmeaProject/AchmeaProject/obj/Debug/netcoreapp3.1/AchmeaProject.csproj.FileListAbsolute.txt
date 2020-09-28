@@ -107,3 +107,41 @@ C:\Users\robin\OneDrive\Documents\FHICT\Semester 3\Group project\AchmeaProject\A
 C:\Users\robin\OneDrive\Documents\FHICT\Semester 3\Group project\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.pdb
 C:\Users\robin\OneDrive\Documents\FHICT\Semester 3\Group project\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.genruntimeconfig.cache
 C:\Users\robin\OneDrive\Documents\FHICT\Semester 3\Group project\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.csproj.CopyComplete
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.exe
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.deps.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.runtimeconfig.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.runtimeconfig.dev.json
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.dll
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.pdb
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.Views.dll
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\bin\Debug\netcoreapp3.1\AchmeaProject.Views.pdb
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.csprojAssemblyReference.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.AssemblyInfoInputs.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.AssemblyInfo.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.csproj.CoreCompileInputs.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.RazorAssemblyInfo.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.RazorAssemblyInfo.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.TagHelpers.input.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.TagHelpers.output.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.RazorCoreGenerate.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.RazorTargetAssemblyInfo.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.RazorTargetAssemblyInfo.cs
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.Views.pdb
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\staticwebassets\AchmeaProject.StaticWebAssets.Manifest.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\staticwebassets\AchmeaProject.StaticWebAssets.xml
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.dll
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.pdb
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.genruntimeconfig.cache
+D:\Fontys\Semester 3\GP\GitKraken\AchmeaProject\AchmeaProject\AchmeaProject\obj\Debug\netcoreapp3.1\AchmeaProject.csproj.CopyComplete
